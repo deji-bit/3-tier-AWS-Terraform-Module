@@ -1,8 +1,0 @@
-.terraform
-*.tfstate
-*.tfstate.*
-*.pem
-*.ppk
-*.log
-*.pub
-*.plan
